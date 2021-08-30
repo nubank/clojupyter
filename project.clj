@@ -1,4 +1,4 @@
-(defproject dev.nubank/clojupyter "0.3.2-pre1"
+(defproject dev.nubank/clojupyter "0.3.2-fix1"
   :description			"A Jupyter kernel for Clojure"
   :license			{:name "MIT"}
   :url				"https://github.com/clojupyter/clojupyter"
