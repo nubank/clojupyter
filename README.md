@@ -2,7 +2,7 @@
 
 A Jupyter kernel for Clojure - run Clojure code in Jupyter Lab, Notebook and Console.
 
-[![Clojars Project](https://img.shields.io/clojars/v/clojupyter.svg)](https://clojars.org/dev.nubank/clojupyter) ![toolsdeps-build](https://github.com/clojupyter/clojupyter/actions/workflows/toolsdeps-build.yml/badge.svg)
+[![Clojars Project](https://img.shields.io/clojars/v/dev.nubank/clojupyter.svg)](https://clojars.org/dev.nubank/clojupyter) ![toolsdeps-build](https://github.com/clojupyter/clojupyter/actions/workflows/toolsdeps-build.yml/badge.svg)
 
 ## Table of Contents
 
